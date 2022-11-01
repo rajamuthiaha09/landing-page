@@ -1,0 +1,61 @@
+.bg {
+    background-image: url('assets/images/House2.jpg');
+    height: 100vh;
+    width: 100vw;
+    background-size: cover; 
+    padding-left: 150px;
+}
+
+body{
+    font-family: "Times New Roman";
+    background-color: whitesmoke;
+}
+
+a{
+    padding: 45px 20px;
+    text-decoration: none;
+    font-family: serif;
+    color: black;
+    font-size: 17px;
+}
+
+h4{
+    color: darkorange;
+    font-weight: bold;
+}
+
+h1{
+    font-weight: bold;
+    color: rgb(2, 2, 2);
+}
+
+.thumb{
+width: 90px;
+height: 90px;
+}
+
+.hp{
+    width: 500px;
+    height: 500px;
+}
+.container{
+    padding-top: -20px;
+}
+
+.kk{
+    margin-top: -65px;
+}
+
+.sr{
+    width: 500px;
+    height: 350px;
+}
+
+.image{
+    width: 225px;
+    height: 350px; 
+}
+footer
+{
+    background-color: white;
+}
